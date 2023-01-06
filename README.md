@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevonMiller-tfo (I work with Tech for Operations at Accenture)
 - 👀 I’m interested in Spring, Terraform, GCP APIs
 - 🌱 I’m currently learning ... Terraform
-- 💞️ I’m looking to collaborate on ... ways to make worflows simple and elegant
+- 💞️ I’m looking to collaborate on ... ways to make workflows simple and elegant
 - 📫 How to reach me ... devon.c.miller@accenture.com
 
 <!---
